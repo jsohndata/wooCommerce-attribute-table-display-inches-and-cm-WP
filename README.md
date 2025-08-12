@@ -1,4 +1,6 @@
 ![Screenshot of WooCommerce Dual-Unit Dimensions](images/screen.webp)
+![Screenshot of WooCommerce Dual-Unit Dimensions](images/screen1.webp)
+![Screenshot of WooCommerce Dual-Unit Dimensions](images/screen2.webp)
 
 # WordPress - WooCommerce Dual-Unit Dimensions (in ↔ cm)
 
